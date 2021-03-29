@@ -9,3 +9,5 @@
  Currently the tool relies on user to not make any mistakes a lot and lacks a lot of features that can help the user experience.
  
  Users should be warned that you can easily make a mistake and forget the recorder on. So user caution is required.
+
+![](https://cdn.discordapp.com/attachments/526057517541752842/826187069129752637/recordanim2.gif)
